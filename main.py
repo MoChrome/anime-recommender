@@ -1,5 +1,4 @@
 import streamlit as st
-import joblib
 import pandas as pd
 
 @st.cache(allow_output_mutation=True)
